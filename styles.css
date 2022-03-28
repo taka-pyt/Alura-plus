@@ -77,7 +77,7 @@ body{
 }
 
 .descricao__titulo {
-    font-size: 28px;
+    font-size: 48px;
     font-weight: 700;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
